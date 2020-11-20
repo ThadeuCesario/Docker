@@ -35,3 +35,15 @@
         </ul>
     </article>
 </section>
+<br /><br />
+<section>
+    <h2>O que são containers?</h2>
+    <article>
+        <strong>Dentro do DockerEngine, temos uma encapsulamento de algumas ferramentas importantes.</strong>
+        <ul>
+            <li>CLI</li>
+            <li>REST API</li>
+            <li>Dockerfiles</li>
+        </ul>
+    </article>
+</section>
