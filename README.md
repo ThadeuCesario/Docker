@@ -23,3 +23,15 @@
         <strong>A quantidade de recursos é muito menor que um container precisa. Podemos ter vários containers rodando simultaneamente (isso seria caótico usando VM's em um único computador)</strong>
     </article>
 </section>
+<br /><br />
+<section>
+    <h2>Docker Engine</h2>
+    <article>
+        <strong>Dentro do DockerEngine, temos uma encapsulamento de algumas ferramentas importantes.</strong>
+        <ul>
+            <li>CLI</li>
+            <li>REST API</li>
+            <li>Dockerfiles</li>
+        </ul>
+    </article>
+</section>
